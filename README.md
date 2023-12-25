@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/MohamedElssaffy/Challenge-one?tab=readme-ov-file#my-process)
-- Live Site URL: (https://mohamedelssaffy.github.io/Challenge-one/)
+- Solution URL: [Git Repo](https://github.com/MohamedElssaffy/Challenge-one?tab=readme-ov-file#my-process)
+- Live Site URL:[Go Live](https://mohamedelssaffy.github.io/Challenge-one/)
 
 ## My process
 
